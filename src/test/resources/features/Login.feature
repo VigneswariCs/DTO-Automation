@@ -1,3 +1,4 @@
+# Login automation scenarios
 Feature: Login functionality
 
   Scenario: Successful Login with valid credentials
